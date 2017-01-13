@@ -43,7 +43,7 @@ namespace Klasser
             namnen.efternamn = Console.ReadLine();
             Console.WriteLine("Skriv in ditt födelse datum: ");
             namnen.date = Console.ReadLine();
-            Console.WriteLine("ditt namn är " + namnen.föroeft);
+            Console.WriteLine("ditt namn är " + namnen.föroeft); 
         }
     }
 }
